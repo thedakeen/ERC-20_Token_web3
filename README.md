@@ -9,16 +9,16 @@ ERC-20 tokens are digital assets created and transacted on the Ethereum blockcha
 
 Thanks to the functions in my web3 app, after deploying the contract the user can call the functions of the contract itself in Web3.
 
-![FunctionsCalling](https://https://github.com/thedakeen/ERC-20_Token_web3/blob/main/sc3.png)
+![FunctionsCalling](https://github.com/thedakeen/ERC-20_Token_web3/blob/main/sc3.png)
 
 Result:
 
-![Result of the function](https://https://github.com/thedakeen/ERC-20_Token_web3/blob/main/sc1.png)
+![Result of the function](https://github.com/thedakeen/ERC-20_Token_web3/blob/main/sc1.png)
 
 
 Main Part of a code
 
-![MainCode](https://github.com/thedakeen/ERC-20_Token/blob/main/sc2.png)
+![MainCode](https://github.com/thedakeen/ERC-20_Token_web3/blob/main/sc2.png)
 
 ### Examples
 
